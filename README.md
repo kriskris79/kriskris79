@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kriskris79
+Hi There 👋 I’m Kris
 - 👀 I’m interested in new technologies, social media and coding
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I'm starting my adventure as a Junior.
+- 💻 <a href="https://www.blackandwhitedev.com" target="_blank" style="color: blue; text-decoration: underline;">My Personal Website</a>
+
 <!---
 kriskris79/kriskris79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

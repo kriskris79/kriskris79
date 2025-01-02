@@ -1,6 +1,6 @@
 Hi There 👋 I'm Kris, living in the UK.
 
-👀 I'm studying IT at the Open University and am always open to learning something new. I enjoy creating applications in React, especially using JavaScript.
+👀 I am passionate about creating mobile applications in React, particularly with JavaScript. I am also studying IT at the Open University in my free time, where I explore various programming languages and networks. Additionally, I am very passionate about solving any problems that arise.
 
 💻 Check out [My Personal Website](https://www.blackandwhitedev.com) to learn more about my projects and skills.
 

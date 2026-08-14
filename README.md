@@ -4,5 +4,5 @@ My current final year project is an offline Android road-sign recognition app fo
 
 I enjoy solving technical problems, learning new tools and improving applications through testing, debugging and user feedback.
 
-💻 Portfolio: [My Personal Website](https://blackandwhitedev-870c2.web.app/) — examples of my web development, React, JavaScript and design work.
+
 

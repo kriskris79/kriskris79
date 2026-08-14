@@ -1,10 +1,8 @@
-Hi There 👋 I'm Kris, living in the UK.
+Hi there 👋 I'm Kris, a UK-based Junior Software Developer currently completing a BSc (Honours) Computing and IT with The Open University.
 
-👀 I am passionate about creating mobile applications in React, particularly with JavaScript. I am also studying IT at the Open University in my free time, where I explore various programming languages and networks. Additionally, I am very passionate about solving any problems that arise.
+My current final-year project is an offline Android road-sign recognition app for children, being developed using React Native, Python and TensorFlow Lite. I have also completed a remote Software Developer Internship where I worked with WordPress, NestJS, PostgreSQL, Prisma and API authentication.
 
-💻 Check out [My Personal Website](https://blackandwhitedev-870c2.web.app/) to learn more about my projects and skills.
+I enjoy solving technical problems, learning new tools and improving applications through testing, debugging and user feedback.
 
-<!---
-kriskris79/kriskris79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Portfolio: [My Personal Website](https://blackandwhitedev-870c2.web.app/) — examples of my web development, React, JavaScript and design work.
+
